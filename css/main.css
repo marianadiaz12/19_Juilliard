@@ -1,0 +1,50 @@
+.fondo{
+	background-image: url("../img/dance_1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+
+.parrafo1{
+	padding: 20px 900px 20px 10px;
+}
+
+
+
+.fondo2{
+	background-image: url("../img/textura_2.jpg");
+	padding: 100px;
+}
+
+.decoration1{
+	height: 90px;
+	width: 150px;
+}
+
+.mapa{
+	 width:400px; 
+	 height:350px; 
+}
+
+.fondoR{
+	background-image: url("../img/instructor_4.jpg");
+	background-repeat: no-repeat;
+	background-size: 52%;
+	padding: 300px 0px 10px 0px;
+}
+
+.fondoL{
+	background-image: url("../img/profesor_9.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 50%;
+}
+
+.enca{
+	font-size: 100px;
+}
+.bot{
+	height: 30px;
+	width: 100px;
+}
+

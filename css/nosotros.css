@@ -1,0 +1,40 @@
+.fondo1{
+	background-image: url("../img/dance_7.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.borde{
+	background-color: black;
+	opacity: 0.7;
+	padding: 20px;
+	height: 150px;
+	width: 500px;
+	margin:100px 400px;
+}
+
+.fondo2{
+	background-image: url("../img/tile2.png");
+	padding: 70px 100px;
+}
+.hrm{
+	margin: 20px;
+}
+.pd-3{
+	padding: 30px;
+}
+.ins{
+	height: 200px;
+	width: 250px;
+}
+.sec2{
+	padding: 0px 80px;
+}
+.maper{
+	margin-bottom: 10px;
+}
+
+.matop{
+	margin-top: 90px;
+	margin-bottom: 50px;
+}

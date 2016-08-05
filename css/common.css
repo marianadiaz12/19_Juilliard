@@ -1,0 +1,83 @@
+.boton{
+	background-color: #154360; 
+	border-radius: 5%;
+}
+
+.fondo-blue{
+	background-color:  #154360;
+	padding: 50px;
+}
+.color{
+	color: #E7E7E1;
+}
+
+.menu{
+	display: inline-block;
+	padding: 15px;
+}
+
+.mencol{
+	text-decoration: none;
+	margin-left: 10px;
+}
+
+.pd-2{
+	padding: 100px;
+}
+.pd{
+	padding: 10px;
+}
+
+.form {
+	margin:5px;
+}
+
+.icono1{
+	background-image: url("../img/icono/user.png");
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+.icono2{
+	background-image: url("../img/icono/email.png");
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+.icono3{
+	background-image: url("../img/icono/pen.png");
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+.tambot{
+	width: 300px;
+	height: 25px;
+}
+
+.enviar{
+	height: 40px;
+	margin-bottom: 200px; 
+}
+.marg{
+	margin-left: 50px;
+}
+.men{
+	height: 100px;
+}
+.botonns{
+	height: 50px;
+	width: 300px;
+}
+
+.fondo6{
+	background-image: url("../img/shoes_1.jpg");
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: 100% 100%;
+}
+
+.fondo{
+	background-color: #F0F0F0;
+	padding: 50px;
+}
