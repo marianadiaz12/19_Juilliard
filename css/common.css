@@ -7,6 +7,10 @@
 	background-color:  #154360;
 	padding: 50px;
 }
+a{
+	text-decoration: none;
+}
+
 .color{
 	color: #E7E7E1;
 }
